@@ -21,7 +21,8 @@
 
 
 <dl>
-  <dt>Definition list</dt>  
+  <dt>Definition list</dt> 
+  <dd>:heavy_check_mark: Display grid<br></dd> 
   <dd>:heavy_check_mark: Grid-template-columns</dd>  
   <dd>:heavy_check_mark: Grid-template-rows</dd>    
 </dl>
