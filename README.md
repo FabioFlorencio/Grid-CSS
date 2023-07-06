@@ -2,9 +2,9 @@
 
 <p>O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base o canal <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e outras fontes no youtube.</p>
 
-## Conceitos básicos de Grid Layout
+## :ledger: Conceitos básicos de Grid Layout
 
-- Um recurso do css que permite desenvolver layouts em grid;
+- :small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;
 - É um valor da propriedade display;
 - O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;
 - Os grids são divididos em colunas e linhas;
