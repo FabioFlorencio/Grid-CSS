@@ -3,13 +3,15 @@
 <p>O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base o canal <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e outras fontes no youtube.</p>
 
 ## :ledger: Conceitos básicos de Grid Layout
-
+<br>
 
 :small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;<br>
 :small_blue_diamond: É um valor da propriedade display;<br>
 :small_blue_diamond: Os grids são divididos em colunas e linhas;<br>
 :small_blue_diamond: Os recursos do flex-box podem ser usados em grid;<br>
-:small_blue_diamond: O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;<br>
+:small_blue_diamond: O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;
+
+---
 
 ## :clipboard: Tabela de conteúdo
 
