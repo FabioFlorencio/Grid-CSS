@@ -15,17 +15,9 @@
 
 <br>
 
->:heavy_check_mark: Display grid
+>:heavy_check_mark: Display grid<br>
 :heavy_check_mark: Grid-template-columns<br>
 :heavy_check_mark: Grid-template-rows<br>
-
-
-<dl>
-  <dt>Definition list</dt> 
-  <dd>:heavy_check_mark: Display grid</dd> 
-  <dd>:heavy_check_mark: Grid-template-columns</dd>  
-  <dd>:heavy_check_mark: Grid-template-rows</dd>    
-</dl>
 
 
 ---
