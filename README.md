@@ -6,9 +6,9 @@
 
 :small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;<br>
 :small_blue_diamond: É um valor da propriedade display;<br>
-:small_blue_diamond: O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;<br>
 :small_blue_diamond: Os grids são divididos em colunas e linhas;<br>
 :small_blue_diamond: Os recursos do flex-box podem ser usados em grid;<br>
+:small_blue_diamond: O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;<br>
 
 ## :clipboard: Tabela de conteúdo
 
