@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background:#0077FF;    
+}
+html {
+    font-size: 62.5%;
+}
+.container{
+    display: grid;
+    grid-template-columns:1fr;
+    grid-template-rows:20vh 40vh 30vh 10vh;   
+    color:#FFF;
+    font-size: 2rem;
+}
+header{
+    background-color: #ff6347;
+    height:15rem;   
+    
+}
+main{
+    height:15rem;    
+    background-color:#ffff00;
+    
+}
+aside{
+    height:15rem;
+    background-color:black;    
+}
+footer{
+    height:15rem;
+    background-color:#008000;
+}
+
+
+
+
+
+
