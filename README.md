@@ -4,8 +4,8 @@
 
 ## :ledger: Conceitos básicos de Grid Layout
 
-:small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;
-:small_blue_diamond: É um valor da propriedade display;
+:small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;<br>
+:small_blue_diamond: É um valor da propriedade display;<br>
 - O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;
 - Os grids são divididos em colunas e linhas;
 - Os recursos do flex-box podem ser usados em grid;
