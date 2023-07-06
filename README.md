@@ -18,7 +18,7 @@
 :heavy_check_mark: Grid-template-columns<br>
 :heavy_check_mark: Grid-template-rows<br>
 
-<hr>  
+---
 
 
 ## :unlock: Quer destravar os comandos básicos:question::old_key:
