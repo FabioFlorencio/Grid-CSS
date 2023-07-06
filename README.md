@@ -21,7 +21,7 @@
   
 
 
-## :unlock: Quer aprender os comandos básicos:question::old_key:
+## :unlock: Quer destravar os comandos básicos:question::old_key:
 <br>
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/78650091/220229632-d7f811a0-0762-4f6d-a3ea-81bdb561f1d3.gif)
