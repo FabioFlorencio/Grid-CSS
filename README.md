@@ -15,9 +15,7 @@
 
 
 :heavy_check_mark: Display grid
-
 :heavy_check_mark: Grid-template-columns
-
 :heavy_check_mark: Grid-template-rows
 
 
