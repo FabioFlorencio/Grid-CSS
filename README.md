@@ -14,10 +14,6 @@
 
 <br>
 
-* [`Display Grid`](#Display-Grid)
-* [`Grid-template-columns`](#Grid-template-columns)
-* [`Grid-template-rows`](#Grid-template-rows)
-- Grid-template-columns
 :heavy_check_mark: Grid-template-rows
 :white_check_mark: ooooooppp
   
