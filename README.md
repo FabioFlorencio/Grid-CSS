@@ -21,11 +21,9 @@
 
 
 <dl>
-  <dt>Definition list</dt>
-  <dd>:heavy_check_mark: Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>Definition list</dt>  
+  <dd>heavy_check_mark: Grid-template-columns</dd>  
+  <dd>:heavy_check_mark: Grid-template-rows</dd>    
 </dl>
 
 
