@@ -4,9 +4,9 @@
 
 ## :ledger: Conceitos básicos de Grid Layout
 
-<ul>
+<ol>
     <li>:small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;</li>
-</ul>
+</ol>
 
 :small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;<br>
 :small_blue_diamond: É um valor da propriedade display;<br>
