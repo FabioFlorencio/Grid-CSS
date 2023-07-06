@@ -13,6 +13,7 @@
 
 ## :clipboard: Tabela de conteúdo
 
+<br>
 
 :heavy_check_mark: Display grid
 :heavy_check_mark: Grid-template-columns
