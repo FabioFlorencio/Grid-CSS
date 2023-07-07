@@ -1,8 +1,8 @@
-	# :books: Estudos da linguagem batch :gear:
+# :books: Estudos da linguagem batch :gear:
 
 <p>O intuito desse estudo foi aprofundar o conhecimento da linguagem de lote e ter um domínio de usar o prompt que se faz necessário ainda nos tempos de hoje. Foi utilizado como base o canal <a href="https://www.youtube.com/playlist?list=PLO_mlVzHgDw02tItMApdR4MOpZB37162D">Instituto scripts</a> e outras fontes no youtube.</p>
 
-<img src="./img/container.png">
+<img alt="container" src="container.png">
 
 ## :unlock: Quer destravar os comandos básicos:question::old_key:
 <br>
