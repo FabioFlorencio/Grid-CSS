@@ -1,4 +1,4 @@
-# :writing_hand: Aula 1 :books:
+# :writing_hand: Aula 1 :man_teacher:
 
 <p>Teste</p>
 
