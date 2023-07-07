@@ -19,9 +19,25 @@
 
 <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: :octocat: <a href="https://git-scm.com/downloads">Git</a> e um editor de código <a href="https://code.visualstudio.com/download">VS Code.</a></p>
 
-```bash
+```html
     # Clone este repositório
-    $ git clone https://github.com/FabioFlorencio/Linguagem_batch.git
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <header>Header</header>
+            <main>Main</main>
+            <aside>aside</aside>
+            <footer>Footer</footer>
+        </div>
+    </body>
+    </html>
 	
     #Acesse a pasta do projeto no terminal/cmd    
 	
