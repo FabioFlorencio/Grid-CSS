@@ -2,7 +2,7 @@
 
 <p>Teste</p>
 
-<img alt="container" src="./../img/container.png">
+<img alt="container" src="./img/container.png">
 
 ## :unlock: Quer destravar os comandos básicos:question::old_key:
 <br>
