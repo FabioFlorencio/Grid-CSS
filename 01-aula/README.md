@@ -1,4 +1,4 @@
-#  :man_teacher: Aula 1 :lab_coat:
+#  :man_teacher: Aula 1 :book:
 
 <p>Teste</p>
 
