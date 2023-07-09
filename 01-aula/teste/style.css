@@ -3,35 +3,39 @@
     padding: 0;
     outline: 0;
     box-sizing: border-box;
-    background:#2c80b5;    
+    background:#0077FF;    
 }
 html {
     font-size: 62.5%;
 }
 .container{
     display: grid;
-    grid-template-columns:1fr;
-    grid-template-rows:20vh 40vh 30vh 10vh;
+    grid-template-columns:1fr 1fr;
+    grid-template-rows:20vh 60vh 20vh;   
     color:#FFF;
     font-size: 2rem;
 }
 header{
-    background-color: #ff6347;
-    height:15rem;         
+    grid-column-start:1;
+    grid-column-end:4;
+    background-color: #ff6347;        
 }
 main{
-    height:15rem;    
+       
     background-color:#ffff00;
     
 }
 aside{
-    height:15rem;
+    
     background-color:black;    
 }
 footer{
-    height:20rem;
+    grid-column-start:1;
+    grid-column-end:3;
+    
     background-color:#008000;
 }
+
 
 
 

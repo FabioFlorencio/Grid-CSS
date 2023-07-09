@@ -16,20 +16,28 @@ html {
     font-size: 2rem;
 }
 header{
+    grid-column-start:1;
+    grid-column-end:3;
     background-color: #ff6347;
-    height:15rem;   
+    height:auto;   
     
 }
-main{
+main{      
+    grid-row-start:2;    
+    grid-row-end:4;
     height:15rem;    
     background-color:#ffff00;
     
 }
-aside{
-    height:15rem;
-    background-color:black;    
+aside{           
+    grid-row-start:2;    
+    grid-row-end:4; 
+    background-color:black;      
 }
 footer{
+    grid-column-start:1;
+    grid-column-end:3;    
+    
     height:15rem;
     background-color:#008000;
 }
