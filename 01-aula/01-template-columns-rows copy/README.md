@@ -4,6 +4,8 @@
 
 <img alt="container" src="./../img/img-2.png">
 
+<img alt="container" src="./../img/img-2.1.png">
+
 ## :unlock: Quer destravar os comandos básicos:question::old_key:
 <br>
 
