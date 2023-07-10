@@ -1,4 +1,4 @@
-# :books: Exemplo1 :gear:
+# :books: Exemplo 1 :gear:
 
 <p>Nesse exemplo demonstra usar:</p>
 <p>    
@@ -16,7 +16,7 @@
 <img alt="container" src="./../img/img-2.1.png">
 
 
-## :mag_right:  Pré-requisitos
+## :mag_right: HTML / CSS
 
 <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: :octocat: <a href="https://git-scm.com/downloads">Git</a> e um editor de código <a href="https://code.visualstudio.com/download">VS Code.</a></p>
 
