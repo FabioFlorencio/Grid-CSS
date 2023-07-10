@@ -2,14 +2,14 @@
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 <p>    
-    :heavy_check_mark: Grid-template-columns;<br>
+    :point_right: Grid-template-columns;<br>
     :heavy_check_mark: Grid-column-start;<br>
     :heavy_check_mark: Grid-column-end;<br>
     :heavy_check_mark: Grid-row-start;<br>
     :heavy_check_mark: Grid-row-end;<br>       
 </p>
 
-## :books: Imagens dos exemplos :gear:
+## :art: Imagens dos exemplos 
 
 <img alt="container" src="./../img/img-2.png">
 
