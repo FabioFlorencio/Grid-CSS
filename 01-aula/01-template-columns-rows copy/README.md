@@ -1,6 +1,6 @@
 # :books: Exemplo 1 :gear:
 
-<p>Nesse exemplo foi usado seguintes propriedades:</p>
+<p>Nesse exemplo foi usado as seguintes propriedades:</p>
 <p>    
     :heavy_check_mark: Grid-template-columns;<br>
     :heavy_check_mark: grid-column-start;<br>
