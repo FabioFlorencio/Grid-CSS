@@ -11,7 +11,7 @@ html {
 .container{
     display: grid;    
     grid-template-columns:3fr 1fr;
-    grid-template-rows:20vh 40vh 30vh 10vh;          
+    grid-template-rows:20vh 30vh 30vh 20vh;          
     color:#FFF;    
     font-size: 2rem;
 }
