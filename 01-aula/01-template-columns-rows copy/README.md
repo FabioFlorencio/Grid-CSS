@@ -9,8 +9,6 @@
     :heavy_check_mark: Grid-row-end;<br>       
 </p>
 
----
-
 ## :books: Imagens dos exemplos :gear:
 
 <img alt="container" src="./../img/img-2.png">
