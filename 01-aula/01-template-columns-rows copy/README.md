@@ -1,4 +1,4 @@
-# :books: Exemplo 1 :gear:
+# :books: Exemplo 1
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 <p>    
