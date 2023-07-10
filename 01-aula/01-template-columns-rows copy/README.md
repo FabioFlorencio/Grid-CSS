@@ -3,8 +3,8 @@
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 <p>    
     :heavy_check_mark: Grid-template-columns;<br>
-    :heavy_check_mark: grid-column-start;<br>
-    :heavy_check_mark: grid-column-end;<br>
+    :heavy_check_mark: Grid-column-start;<br>
+    :heavy_check_mark: Grid-column-end;<br>
     :heavy_check_mark: Grid-row-start;<br>
     :heavy_check_mark: Grid-row-end;<br>       
 </p>
