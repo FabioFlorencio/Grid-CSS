@@ -1,15 +1,16 @@
 # :books: Exemplo1 :gear:
 
-<p>Nesse</p>
+<p>Nesse exemplo demonstra usar:</p>
+
+<p>    
+    :heavy_check_mark: Grid-template-columns<br>
+    :heavy_check_mark: Grid-row-start<br>
+    :heavy_check_mark: grid-row-end<br>   
+</p>
 
 <img alt="container" src="./../img/img-2.png">
 
 <img alt="container" src="./../img/img-2.1.png">
-
-## :unlock: Quer destravar os comandos básicos:question::old_key:
-<br>
-
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/78650091/220229632-d7f811a0-0762-4f6d-a3ea-81bdb561f1d3.gif)
 
 
 ## :mag_right:  Pré-requisitos
@@ -43,6 +44,7 @@
 ```css
     # Estilização CSS
     * {
+        
         margin: 0;
         padding: 0;
         outline: 0;
