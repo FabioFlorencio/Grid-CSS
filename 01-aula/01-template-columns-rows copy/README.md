@@ -1,6 +1,6 @@
 # :books: Exemplo 1 :gear:
 
-<p>Nesse exemplo demonstra usar:</p>
+<p>Nesse exemplo foi usado seguintes propriedades:</p>
 <p>    
     :heavy_check_mark: Grid-template-columns;<br>
     :heavy_check_mark: grid-column-start;<br>
@@ -18,7 +18,6 @@
 
 ## :mag_right: HTML / CSS
 
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: :octocat: <a href="https://git-scm.com/downloads">Git</a> e um editor de código <a href="https://code.visualstudio.com/download">VS Code.</a></p>
 
 ```html
 # Estrutura do HTML
@@ -43,7 +42,7 @@
 ```
 
 ```css
-# Estilização CSS
+# Folha de estilo CSS
 * {
     margin: 0;
     padding: 0;
