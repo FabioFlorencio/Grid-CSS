@@ -63,7 +63,7 @@ html {
 }
 header {
     grid-column-start:1;
-    grid-column-end:4;
+    grid-column-end:3;
     background-color: #ff6347;
     height:auto;   
     
@@ -86,7 +86,7 @@ aside {
 }
 footer {
     grid-column-start:1;
-    grid-column-end:4;
+    grid-column-end:3;
     height:auto;
     background-color:#008000;
 }   	
