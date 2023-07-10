@@ -1,12 +1,13 @@
 # :books: Exemplo1 :gear:
 
 <p>Nesse exemplo demonstra usar:</p>
-
 <p>    
     :heavy_check_mark: Grid-template-columns<br>
     :heavy_check_mark: Grid-row-start<br>
-    :heavy_check_mark: grid-row-end<br>   
+    :heavy_check_mark: Grid-row-end<br>       
 </p>
+
+---
 
 <img alt="container" src="./../img/img-2.png">
 
