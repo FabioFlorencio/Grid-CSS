@@ -72,7 +72,8 @@ main {
     grid-column-end:2;
     grid-row-start:2;
     grid-row-end:4;
-    height:auto;    
+    height:auto;  
+    color:#000;    
     background-color:#ffff00;
     
 }
