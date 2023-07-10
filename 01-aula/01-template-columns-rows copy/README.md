@@ -33,7 +33,7 @@
     <div class="container">
         <header>Header</header>
         <main>Main</main>
-        <aside>aside</aside>
+        <aside>Aside</aside>
         <footer>Footer</footer>
     </div>
 </body>
