@@ -19,4 +19,4 @@
 
 #### :package: Container com :classical_building: 2 colunas
 
-<img alt="container" src="./../img/img-01-aula-1.1.1-ex.png">
+<img alt="container grid com 2 colunas" src="./../img/img-01-aula-1.1.1-ex.png">
