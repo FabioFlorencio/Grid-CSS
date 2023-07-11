@@ -1,6 +1,19 @@
 # :books: Estudos do Grid CSS :gear:
 
-<p>O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base o canal <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e outras fontes no youtube.</p>
+<p>
+    O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base o canal <a href="https://www.youtube.com/      playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e outras fontes no youtube.
+</p>
+
+## :clipboard: Tabela de conteúdo
+<br>
+
+<p>
+    :heavy_check_mark: Display grid<br>
+    :heavy_check_mark: Grid-template-columns<br>
+    :heavy_check_mark: Grid-template-rows<br>
+    :heavy_check_mark: grid-column-start<br>
+    :heavy_check_mark: grid-column-end:<br>
+</p>
 
 ---
 
