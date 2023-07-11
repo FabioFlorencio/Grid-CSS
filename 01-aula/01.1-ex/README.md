@@ -12,6 +12,6 @@
 
 <img alt="container" src="./../img/img-01-aula-1.1-ex.png">
 
-## :art: :package: Container com 2 colunas
+## :package: Container com :classical_building: 2 colunas
 
 <img alt="container" src="./../img/img-01-aula-1.1.1-ex.png">
