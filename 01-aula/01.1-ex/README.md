@@ -11,3 +11,4 @@
 ## :art: Imagem exemplo 1.1
 
 <img alt="container" src="./../img/img-01-aula-1.1-ex.png">
+<img alt="container" src="./../img/img-01-aula-1.1.1-ex.png">
