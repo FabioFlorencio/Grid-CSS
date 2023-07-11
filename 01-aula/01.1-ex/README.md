@@ -11,6 +11,7 @@
 ## :art: Imagem 
 
 ### Exemplo 1.1
+#### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-01-aula-1.1-ex.png">
 
