@@ -8,9 +8,13 @@
 
 ---
 
-## :art: Imagem exemplo 1.1
+## :art: Imagem 
+
+### Exemplo 1.1
 
 <img alt="container" src="./../img/img-01-aula-1.1-ex.png">
+
+### Exemplo 1.2
 
 ## :package: Container com :classical_building: 2 colunas
 
