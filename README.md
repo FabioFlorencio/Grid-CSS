@@ -1,25 +1,11 @@
 # :books: Estudos do Grid CSS :gear:
 
 <p>
-    O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base o canal <a href="https://www.youtube.com/      playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e outras fontes no youtube.
+    O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base o canal <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e outras fontes no youtube.
 </p>
 
-## :clipboard: Tabela de conteúdo
-<br>
+## :ledger: Conceitos básicos de Grid Layout <br><br>
 
-<p>
-    :heavy_check_mark: Display grid<br>
-    :heavy_check_mark: Grid-template-columns<br>
-    :heavy_check_mark: Grid-template-rows<br>
-    :heavy_check_mark: grid-column-start<br>
-    :heavy_check_mark: grid-column-end:<br>
-</p>
-
----
-
-## :ledger: Conceitos básicos de Grid Layout <br>
-
-<br>
 <p>
     :small_blue_diamond: Um recurso do css que permite desenvolver layouts em grid;<br>
     :small_blue_diamond: É um valor da propriedade display;<br>
@@ -27,8 +13,6 @@
     :small_blue_diamond: Os recursos do flex-box podem ser usados em grid;<br>
     :small_blue_diamond: O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;
 </p>
-
----
 
 ## :clipboard: Tabela de conteúdo
 <br>
