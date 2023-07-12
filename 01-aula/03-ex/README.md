@@ -52,7 +52,7 @@ main{
 }
 aside{
     height:15rem;
-    background-color:black;    
+    background-color:#fff;    
 }
 footer{    
     height:15rem;
