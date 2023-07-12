@@ -23,7 +23,7 @@
 
 ---
 
-## :keyboard: Código simplificado do exemplo
+## :keyboard: Código simplificado
 
 ```css
 # Exemplo do css 
