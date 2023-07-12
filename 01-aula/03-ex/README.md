@@ -42,8 +42,8 @@ html {
 header{
     grid-column-start: 1;
     grid-column-end: 3;
-    grid-row-start: 1; /*Determina o início da linha */
-    grid-row-end: 4;   /*Determina o fim da linha, mas não ocupa a linha 4 */ 
+    grid-row-start: 1; /* Determina o início da linha */
+    grid-row-end: 4;   /* Determina o fim da linha, mas não ocupa a linha 4 */  
     background-color: rgb(255, 99, 71);          
 }
 main{
