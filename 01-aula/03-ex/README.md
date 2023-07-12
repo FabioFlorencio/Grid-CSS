@@ -18,13 +18,13 @@
 #### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-3-ex.png">
-<p>Nesse exemplo foi definido a quantidade de linhas da tag header usando como parâmetro o grid-template-rows: 20vh 40vh 10vh, para determinar o seu tamanho.</p>
+<p>Nesse exemplo foi definido a quantidade de linhas da tag header, usando como parâmetro o grid-template-rows: 20vh 40vh 10vh, para determinar o seu tamanho.</p>
 <img alt="container" src="./../img/03-ex-rows.png">
 
 
 ---
 
-## :keyboard: Código
+## :keyboard: Código simplificado do exemplo
 
 ```css
 # Exemplo do css 
@@ -44,13 +44,12 @@ header{
     grid-column-start:1;
     grid-column-end:3;
     grid-row-start:1; /*Determina o início da linha */
-    grid-row-end:4;   /*Determina o fim da linha, mas não ocupa a linha 4*/ 
+    grid-row-end:4;   /*Determina o fim da linha, mas não ocupa a linha 4 */ 
     background-color: rgb(255, 99, 71);          
 }
 main{
     height:15rem;    
-    background-color:#ffff00;
-    
+    background-color:#ffff00;    
 }
 aside{
     height:15rem;
