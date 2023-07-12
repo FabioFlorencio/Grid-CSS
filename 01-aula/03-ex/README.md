@@ -27,7 +27,13 @@
 
 ```css
 # Exemplo do css 
-
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background:#0077FF;    
+}
 html {
     /* A cada 1rem será considerado 10px */
     font-size: 62.5%;
