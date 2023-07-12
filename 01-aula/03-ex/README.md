@@ -18,7 +18,7 @@
 #### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-3-ex.png">
-<p>Nesse exemplo foi definido a quantidade de linhas da tag header, usando como parâmetro o grid-template-rows: 20vh 40vh 10vh, para determinar o seu tamanho.</p>
+<p>Nesse exemplo foi definido a quantidade de linhas da tag header, usando como parâmetro o grid-template-rows: 20vh 40vh 10vh, para determinar o seu tamanho utilizando a propriedade( grid-row-start / grid-row-end ).</p>
 <img alt="container" src="./../img/03-ex-rows.png">
 
 
