@@ -4,6 +4,10 @@
 <p>    
     :heavy_check_mark: Grid-template-columns;<br>
     :heavy_check_mark: Grid-template-rows;<br>          
+    :heavy_check_mark: Grid-column-start;<br>
+    :heavy_check_mark: Grid-column-end;<br>
+    :heavy_check_mark: Grid-row-start;<br>
+    :heavy_check_mark: Grid-row-end;<br>
 </p>
 
 ---
@@ -14,15 +18,17 @@
 #### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-3-ex.png">
+<img alt="container" src="./../img/03-ex-rows.png">
 
 
 ---
 
 
 ```css
-    # Exemplo do css 
+# Exemplo do css 
 
-    html {
+html {
+    /* A cada 1rem será considerado 10px */
     font-size: 62.5%;
 }
 .container{
@@ -35,8 +41,8 @@
 header{
     grid-column-start:1;
     grid-column-end:3;
-    grid-row-start:1;
-    grid-row-end:4;
+    grid-row-start:1; /*Determina o início da linha */
+    grid-row-end:4;   /*Determina o fim da linha */ 
     background-color: rgb(255, 99, 71);          
 }
 main{
@@ -48,8 +54,7 @@ aside{
     height:15rem;
     background-color:black;    
 }
-footer{
-    
+footer{    
     height:15rem;
     background-color:#008000;
 }
