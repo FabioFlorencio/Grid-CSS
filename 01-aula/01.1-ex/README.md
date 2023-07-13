@@ -1,6 +1,9 @@
 # :books: Exemplo 1.1
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
+
+## :package: Grid Container
+
 <p>    
     :heavy_check_mark: Grid-template-columns;<br>
     :heavy_check_mark: Grid-template-rows;<br>          
