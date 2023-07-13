@@ -1,4 +1,4 @@
-# :books: Exemplo 3.1
+# :books: Exemplo 4
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 <p>    
@@ -10,7 +10,8 @@
 
 ## :pencil: Grid Item
 
-<p>                  
+<p> 
+    :heavy_check_mark:;<br>                 
     :heavy_check_mark: Grid-column;<br>    
     :heavy_check_mark: Grid-row;<br>    
 </p>
