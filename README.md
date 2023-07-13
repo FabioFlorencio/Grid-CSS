@@ -17,7 +17,7 @@
 ## :clipboard: Tabela de conteúdo
 <br>
 
-### Propriedade Grid Container
+### Propriedades Grid Container
 <p>
     :heavy_check_mark: Display grid;<br>
     :heavy_check_mark: Grid-template-columns;<br>
@@ -28,7 +28,7 @@
     :heavy_check_mark: Grid-column;<br>    
 </p>
 
-### Propriedade Grid Item
+### Propriedades Grid Item
 <p>    
     :heavy_check_mark: Grid-column;<br>
     :heavy_check_mark: Grid-row;<br>
