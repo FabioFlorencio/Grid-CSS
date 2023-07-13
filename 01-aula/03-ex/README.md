@@ -9,7 +9,7 @@
     :heavy_check_mark: Grid-template-rows;<br>              
 </p>
 
-## :pencil:  Grid Item
+## :pencil: Grid Item
 
 <p>                
     :heavy_check_mark: Grid-column-start;<br>

@@ -1,26 +1,76 @@
-	# :books: Estudos da linguagem batch :gear:
+# :books: Exemplo 2
 
-<p>O intuito desse estudo foi aprofundar o conhecimento da linguagem de lote e ter um domínio de usar o prompt que se faz necessário ainda nos tempos de hoje. Foi utilizado como base o canal <a href="https://www.youtube.com/playlist?list=PLO_mlVzHgDw02tItMApdR4MOpZB37162D">Instituto scripts</a> e outras fontes no youtube.</p>
+<p>Nesse exemplo foi usado as seguintes propriedades:</p>
 
-## :unlock: Quer destravar os comandos básicos:question::old_key:
-<br>
+## :package: Grid Container
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/78650091/220229632-d7f811a0-0762-4f6d-a3ea-81bdb561f1d3.gif)
+<p>    
+    :heavy_check_mark: Grid-template-columns;<br>
+    :heavy_check_mark: Grid-template-rows;<br>              
+</p>
+
+## :pencil:  Grid Item
+
+<p>                
+    :heavy_check_mark: Grid-column-start;<br>
+    :heavy_check_mark: Grid-column-end;<br>
+    :heavy_check_mark: Grid-row-start;<br>
+    :heavy_check_mark: Grid-row-end;<br>
+</p>
+
+---
+
+## :art: Imagem 
+
+#### :package: Container ilustrativo
+
+<img alt="container" src="./../img/img-3-ex.png">
+<p>Nesse exemplo foi definido a quantidade de linhas da tag header, usando a propriedade ( grid-row-start / grid-row-end ) e foi utilizado como parâmetro grid-template-rows: 20vh 40vh 10vh, para determinar o tamanho da linha.</p>
+<img alt="container" src="./../img/img-ex-03.1.png">
 
 
-* PDF :file_folder: https://bityli.com/7coed
-* PDF :file_folder: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6976248550846283776/)
+---
 
-<br>
+## :keyboard: Código simplificado
 
-## :mag_right:  Pré-requisitos
-
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: :octocat: <a href="https://git-scm.com/downloads">Git</a> e um editor de código <a href="https://code.visualstudio.com/download">VS Code.</a></p>
-
-```bash
-    # Clone este repositório
-    $ git clone https://github.com/FabioFlorencio/Linguagem_batch.git
-	
-    #Acesse a pasta do projeto no terminal/cmd    
-	
+```css
+# Exemplo do css 
+{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    background:#0077FF;    
+}
+html {
+    /* A cada 1rem será considerado 10px */
+    font-size: 62.5%;
+}
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 20vh 40vh 10vh 30vh;   
+    color: #FFF;
+    font-size: 2rem;
+}
+header{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1; /* Determina o início da linha */
+    grid-row-end: 4;   /* Determina o fim da linha, mas não ocupa a linha 4 */  
+    background-color: rgb(255, 99, 71);          
+}
+main{
+    height: 15rem;    
+    background-color: #ffff00;    
+}
+aside{
+    height: 15rem;
+    background-color: #fff;    
+}
+footer{    
+    height: 15rem;
+    background-color: #008000;
+}
+    
 ```
