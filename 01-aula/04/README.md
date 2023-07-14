@@ -24,7 +24,7 @@
 
 #### :package: Container ilustrativo
 
-<img alt="container" src="./../img/img-3-ex.png">
+<img alt="container" src="./../img/img-ex-4.1.png">
 <p>Nesse exemplo foi utilizado as propriedades grid-column e grid-row que são abreviações de (grid-column-start / grid-column-end) e (grid-row-start / grid-row-end).</p>
 <img alt="container" src="./../img/img-ex-03.2.png">
 
@@ -45,28 +45,26 @@ html {
     /* A cada 1rem será considerado 10px */
     font-size: 62.5%;
 }
-.container{
+.container {
     display: grid;
     grid-template-columns:3fr 1fr;
     grid-template-rows:20vh 40vh 10vh 30vh;   
     color:#FFF;
     font-size: 2rem;
 }
-header{
-    grid-column:1/3; /* Inicia na coluna 1 e termina na coluna 2 */    
-    grid-row:1/5;    /* Inicia na linha 1 e termina na linha 4 */
+header {
+    grid-area:1/1/3/2;
     background-color: rgb(255, 99, 71);          
 }
-main{
+main {
     height:15rem;    
-    background-color:#ffff00;
-    
+    background-color:#ffff00;    
 }
-aside{
+aside {
     height:15rem;
     background-color:black;    
 }
-footer{    
+footer {     
     height:15rem;
     background-color:#008000;
 }
