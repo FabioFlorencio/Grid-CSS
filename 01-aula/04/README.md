@@ -26,7 +26,7 @@
 
 <img alt="container" src="./../img/img-ex-4.1.png">
 
-### :pencil: Propriedade Grid Area
+#### :pencil: Propriedade Grid Area
 
 <img alt="container" src="./../img/img-ex-4.png">
 
