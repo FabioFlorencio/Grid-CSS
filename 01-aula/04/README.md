@@ -13,7 +13,7 @@
 ## :pencil: Grid Item
 
 <p>     
-    :heavy_check_mark:Grid-area:;<br>                 
+    :heavy_check_mark: Grid-area;<br>                 
     :heavy_check_mark: Grid-column;<br>    
     :heavy_check_mark: Grid-row;<br>    
 </p>
