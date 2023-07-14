@@ -25,7 +25,9 @@
 #### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-ex-4.1.png">
-<p>Nesse exemplo foi utilizado as propriedades grid-column e grid-row que são abreviações de (grid-column-start / grid-column-end) e (grid-row-start / grid-row-end).</p>
+
+## :pencil: Propriedade Grid Area
+
 <img alt="container" src="./../img/img-ex-4.png">
 
 
