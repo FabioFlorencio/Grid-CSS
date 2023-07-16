@@ -23,7 +23,7 @@
 
 #### :package: Container ilustrativo
 
-<img alt="container" src="./../img/img-ex-4.1.png">
+<img alt="container" src="./../img/img-ex-5.png">
 
 #### :pencil: Propriedade Grid Area
 
