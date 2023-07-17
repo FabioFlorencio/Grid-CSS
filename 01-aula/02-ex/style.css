@@ -20,15 +20,13 @@ header{
     grid-column-start:1;
     grid-column-end:3;
     background-color: #ff6347;
-    height:auto;   
-    
+    height:auto;       
 }
 main{      
     grid-row-start:2;    
     grid-row-end:4;
     height:15rem;    
-    background-color:#ffff00;
-    
+    background-color:#ffff00;    
 }
 aside{           
     grid-row-start:2;    
@@ -37,8 +35,7 @@ aside{
 }
 footer{
     grid-column-start:1;
-    grid-column-end:3;    
-    
+    grid-column-end:3;        
     height:15rem;
     background-color:#008000;
 }
