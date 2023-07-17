@@ -25,7 +25,7 @@
 #### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-ex-2.0.png">
-<p>Nesse exemplo foi definido a quantidade de linhas da tag header, usando a propriedade ( grid-row-start / grid-row-end ) e foi utilizado como parâmetro grid-template-rows: 20vh 40vh 10vh, para determinar o tamanho da linha.</p>
+<p>Nesse exemplo foi definido a quantidade de linhas da tag aside, usando a propriedade ( grid-row-start / grid-row-end ) e foi utilizado como parâmetro grid-template-rows: 20vh 40vh 30vh 10vh, para determinar o tamanho da linha.</p>
 <img alt="container" src="./../img/img-ex-02.1.png">
 
 
