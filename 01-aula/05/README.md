@@ -61,6 +61,7 @@ html {
     font-size: 2rem;
 }
 header {
+    /*grid-area: 1-row-start / 1-column-start / 2-row-end / 3-column-end */
     grid-area:1/1/2/3;
     background-color: rgb(255, 99, 71);          
 }
