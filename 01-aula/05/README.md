@@ -29,7 +29,7 @@
 
 <img alt="container" src="./../img/img-ex-5.1.png">
 
-#### :pencil: Propriedade Grid Template Area (Demostrativo)
+#### :pencil: Propriedade Grid Template Area (Demonstrativo)
 
 <img alt="container" src="./../img/img-ex-4.png">
 
