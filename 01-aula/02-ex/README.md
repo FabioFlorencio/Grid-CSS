@@ -26,7 +26,7 @@
 
 <img alt="container" src="./../img/img-ex-2.0.png">
 <p>Nesse exemplo foi definido a quantidade de linhas da tag header, usando a propriedade ( grid-row-start / grid-row-end ) e foi utilizado como parâmetro grid-template-rows: 20vh 40vh 10vh, para determinar o tamanho da linha.</p>
-<img alt="container" src="./../img/img-ex-03.1.png">
+<img alt="container" src="./../img/img-ex-02.1.png">
 
 
 ---
@@ -61,7 +61,7 @@ header{
 main{      
     grid-row-start:2;    
     grid-row-end:4;
-    height:15rem;  /* Define o tamanho do elemento diferente do aside segue o tamanho da linha */  
+    height:15rem;  /* Define o tamanho do elemento diferente do aside que segue o tamanho da linha */  
     background-color:#ffff00;    
 }
 aside{           
