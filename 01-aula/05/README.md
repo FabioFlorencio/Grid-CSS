@@ -31,7 +31,7 @@
 
 #### :pencil: Propriedade Grid Template Area(exemplo)
 
-<img alt="container" src="./../img/img-ex-4.1.png">
+<img alt="container" src="./../img/img-ex-4.png">
 
 
 ---
