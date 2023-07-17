@@ -34,7 +34,6 @@
 ## :keyboard: Código simplificado
 
 ```css
-# Exemplo do css 
 * {
     margin: 0;
     padding: 0;
@@ -54,15 +53,15 @@ html {
     font-size: 2rem;
 }
 header{
-    grid-column-start:1;
-    grid-column-end:3;
+    grid-column-start:1; /* Começa na coluna 1 */
+    grid-column-end:3;   /* Termina na coluna 2 */
     background-color: #ff6347;
     height:auto;       
 }
 main{      
     grid-row-start:2;    
     grid-row-end:4;
-    height:15rem;    
+    height:15rem;  /* Define o tamanho do elemento diferente do aside segue o tamanho da linha */  
     background-color:#ffff00;    
 }
 aside{           
