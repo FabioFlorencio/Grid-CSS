@@ -58,8 +58,7 @@ header{
 }
 main{
     height:15rem;    
-    background-color:#ffff00;
-    
+    background-color:#ffff00;    
 }
 aside{
     height:15rem;

@@ -61,20 +61,21 @@ html {
     font-size: 2rem;
 }
 header {
-    /*grid-area: 1-row-start / 1-column-start / 2-row-end / 3-column-end */
-    grid-area:1/1/2/3;
+    /* grid-area: 1-row-start / 1-column-start / 2-row-end / 3-column-end */        
+    grid-column:1/3;
+    grid-row:1/2;
     background-color: rgb(255, 99, 71);          
 }
-main {        
-    grid-area:2/1/4/2;
+main {            
+    grid-column: 1/2;
+    grid-row: 2/4;
     background-color:#ffff00;    
 }
-aside {     
-    grid-row:2/3;          
+aside {            
     background-color:black;    
 }
-footer {          
-    grid-area:4/1/5/3;   
+footer {              
+    grid-column: 1/3;
     background-color:#008000;
-}  
+}
 ```
