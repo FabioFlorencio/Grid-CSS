@@ -37,10 +37,10 @@
 
 #### :pencil: Grid Item: grid-column-start / grid-column-end
 
-<img alt="container grid com 2 colunas" src="./../img/img-ex-2.2.png">
+<img alt="img img" src="./../img/img-ex-2.3.png">
 
 ### Exemplo 1.4
 
 #### :pencil: Grid Item: grid-row-start / grid-row-end
 
-<img alt="container grid com 2 colunas" src="./../img/img-ex-2.3.png">
+<img alt="img ex" src="./../img/img-ex-2.2.png">
