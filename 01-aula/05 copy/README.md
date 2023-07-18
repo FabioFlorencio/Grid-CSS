@@ -11,8 +11,7 @@
 
 ## :pencil: Grid Item
 
-<p>     
-    :heavy_check_mark: Grid-area;<br>                 
+<p>                       
     :heavy_check_mark: Grid-column;<br>    
     :heavy_check_mark: Grid-row;<br>    
 </p>
@@ -65,7 +64,7 @@ html {
     font-size: 2rem;
 }
 header {
-    /* grid-area: 1-row-start / 1-column-start / 2-row-end / 3-column-end */        
+    /* grid-column: 1-column-start / 3-column-end */        
     grid-column:1/3;
     grid-row:1/2;
     background-color: rgb(255, 99, 71);          
