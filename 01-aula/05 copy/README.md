@@ -29,9 +29,13 @@
 
 <img alt="container" src="./../img/img-ex-5.1.png">
 
-#### :pencil: Propriedade Grid Item: Grid Template Area (Demonstrativo)
+#### :pencil: Propriedade Grid Item: Grid column (Demonstrativo)
 
-<img alt="container" src="./../img/img-ex-4.png">
+<img alt="container" src="./../img/img-ex-2.3.png">
+
+#### :pencil: Propriedade Grid Item: Grid row (Demonstrativo)
+
+<img alt="container" src="./../img/img-ex-2.2.png">
 
 
 ---
