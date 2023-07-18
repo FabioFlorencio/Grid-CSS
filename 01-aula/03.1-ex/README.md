@@ -27,6 +27,8 @@
 <p>Nesse exemplo foi utilizado as propriedades grid-column e grid-row que são abreviações de (grid-column-start / grid-column-end) e (grid-row-start / grid-row-end).</p>
 <img alt="container" src="./../img/img-ex-03.2.png">
 
+#### :pencil: Grid Item
+<img alt="container" src="./../img/img-ex-4.2.png">
 
 ---
 
