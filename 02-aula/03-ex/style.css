@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;      
+}
+html {
+    /* A cada 1rem será considerado 10px */
+    font-size: 62.5%;
+}
+.container{   
+   width: 100vw;
+   height: 80vh;
+   display: grid;
+   margin:0 auto;
+   grid-template-columns: 1fr 1fr 1fr;   
+   grid-template-rows:1fr 1fr 1fr;  
+   justify-content:center;  /* Eixo main-axis*/
+   align-content:center; /* Eixo cross-axis*/
+   justify-items:center;/* Eixo main-axis*/
+   align-items: center;/* Eixo cross-axis*/
+   gap: .5rem;     
+   text-align: center;   
+   font-size: 2rem;   
+   background: black;
+
+}
+.it1{
+    width: 50%;
+    height: 50%;
+    border:#FFF solid 1px;    
+    background: #FFDD40;
+}
+.it2{
+    width: 50%;
+    height: 50%;
+    border:#FFF solid 1px;
+    background: #404dff;
+}
