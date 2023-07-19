@@ -25,7 +25,9 @@
     :heavy_check_mark: Grid-template-areas;<br>    
     :heavy_check_mark: Grid-row;<br>
     :heavy_check_mark: Grid-column;<br>    
-    :heavy_check_mark: Gap;<br>
+    :heavy_check_mark: Grid-column-gap;<br>
+    :heavy_check_mark: Grid-row-gap;<br>
+    :heavy_check_mark: Grid-gap;<br>
 </p>
 
 ### :pencil: Propriedades Grid Item
