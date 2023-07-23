@@ -12,53 +12,150 @@ html {
     font-size: 62.5%;
 }
 .container{
-    width: 100vw;
-    height: 100vh;
+    max-width: 100vw;
+    min-height: 100vh;
     display: grid;
+    grid-template-columns: 1fr 1fr;
     grid-template-areas: 
         "left right"
         "footer footer"
-    ; 
-    justify-content:center;          
+    ;     
+    justify-content:center;              
     align-content: center;
-    color:#FAFAFA;
-    font-size: 4rem;        
+    color:#FAFAFA; 
+    margin-top: 1rem;           
 }
 .nav-left {   
     display: grid;
     grid-area: left;
-    font-size: 1rem; 
-    min-width: 45.4rem;
+    justify-content:flex-end;        
+    min-width: 42rem;
     min-height: 61.5rem;             
 }
 .nav-left .mobile{
     background: url(https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones.png?__makehaste_cache_breaker=HOgRclNOosk) no-repeat;       
-    min-width: 40.5rem;
-    min-height: 55.4rem;
+    min-width: 42rem;   
+    min-height: 61.5rem;    
 }
-.nav-left .mobile > img {       
+.nav-left .mobile img {       
     position: relative;    
-    top: 10rem;
-    left: 15rem;
-    width:24rem;
-    height:42rem;
+    top: 2.4rem;
+    left: 15.3rem;
+    width:25.6rem;
+    height:54.5rem;
 }
-.nav-right {    
+
+.nav-right {
     grid-area: right;
-    font-size: 1rem; 
-    min-width: 45.4rem;
-    min-height: 61.5rem;
-    background-color:#008000;    
+    min-width: 42rem;
+    min-height: 61.5rem;    
+    font-size: 1.2rem;
+    color: #8e8e8e;     
+    padding: 0 1.5rem;                   
+}
+.box-form {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;    
+    align-items: center;
+    max-width: 35rem;
+    border:0.1rem solid #dbdbdb;
+    margin-bottom: 2rem;  
+    padding-bottom:2.5rem;    
+    background: #fff;
+}
+.box-form input {    
+    min-width: 23rem; 
+    min-height:4rem;
+    border:0.1rem solid #dbdbdb;
+    border-radius:0.3rem;
+    margin-bottom: .8rem;
+    padding:.4rem .8rem;  
+    background: #fbfbfb;
+}
+.nav-right button {
+    min-width: 23rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    border-radius:.8rem;
+    padding: 1rem 1.5rem;    
+    margin-top: .6rem;
+    margin-bottom: 1.5rem;
+    background: #56b8f1;
+}
+.nav-right p {
+    color:#8e8e8e;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-bottom: 2.5rem;
+}
+.nav-right p::before {    
+    content: '___________________';
+    position: relative;
+    top: -0.5rem;
+    padding: 1rem;
+
+}
+.nav-right p::after {
+    content: '___________________';
+    position: relative;
+    top: -0.5rem;
+    padding: 1rem;
+}
+.logo-instagram {
+    width:23.5rem;
+    padding: 2.5rem;
+
+}
+.box {        
+    display: flex; 
+    justify-content: center;        
+    max-width: 35rem;
+    background: #fff; 
+    border: .1rem solid #dbdbdb;           
+}
+.box .links-1 { 
+    display: flex;
+    justify-content:center;                      
+    list-style: none;
+    color:#8e8e8e;
+    font-size: 2rem;
+    margin: 1.5rem 0;
+}
+.box li a {       
+    color: #8e8e8e; 
+    text-decoration: none;
+    padding-left: 0.5rem;
+}
+.box-footer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    max-width: 35rem;    
+    padding: 2.5rem; 
+}
+.box-footer .store {
+    display: flex;
+    justify-content: center;
+    align-content: center;       
+}
+.box-footer img {
+    max-width: 14.5rem;    
+    padding: 1rem 1rem;
+
 }
 .footer {        
     grid-area: footer;   
     justify-self:center; 
     font-size: 1rem; 
     text-align: center;
-    max-width: 78rem;
-    background:#2c80b5;
+    max-width: 78rem;    
 }
-.footer .links { 
+.footer .links-2 { 
     display: flex;
     flex-wrap: wrap;    
     justify-content: center;
@@ -69,10 +166,13 @@ html {
     margin: 1.5rem 0;
 }
 .footer li a {
-    font-size: 1.8rem;;
+    font-size: 1.4rem;
     color: #8e8e8e;
     text-decoration: none;
     padding: 0.5rem;
+}
+span .txt-footer {
+    color: #f00;
 }
 
 /*========= Media queries ============*/
