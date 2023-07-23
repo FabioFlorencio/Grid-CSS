@@ -11,6 +11,6 @@
 ---
 
 
-### :film_projector: :gift:
+## :iphone: Media Queries :desktop_computer: 
 
 ![ezgif com-video-to-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/2c8001fb-6611-4629-a62e-8c5fa6b16e92)
