@@ -10,6 +10,7 @@
 
 ---
 
-## :art: Imagem exemplo 1
 
-<img alt="container" src="./../img/img-01-aula-1-ex.png">
+### :film_projector: :gif:
+
+![ezgif com-video-to-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/2c8001fb-6611-4629-a62e-8c5fa6b16e92)
