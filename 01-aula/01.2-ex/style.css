@@ -12,37 +12,35 @@ html {
 .container{
     display: grid;    
     grid-template-columns:3fr 1fr;
-    grid-template-rows:20vh 30vh 30vh 20vh;          
+    grid-template-rows:20vh 30vh 30vh 20vh;
     color:#FFF;    
     font-size: 2rem;
 }
 header{
-    grid-column-start:1; /* Começa na coluna 1 */
-    grid-column-end:3;   /* Termina na coluna 2 */
+    grid-column:1 / span 2; /* Começa na coluna 1 e espande até a coluna 2 */    
     background-color: #ff6347;
     height:auto;   
     
 }
 main{
-    grid-column-start:1;
-    grid-column-end:2;
+    grid-column:1 / span 1;    
     grid-row-start:2;
-    grid-row-end:4;
+    grid-row-end: span 1;       
     height:auto;  
     color:#000;  
     background-color:#ffff00;
     
 }
 aside{
+    grid-column:2 / span 2; 
     height:auto;
     background-color:black;    
-    grid-row-start:2;
-    grid-row-end:4;
+    grid-row:2 / span 2;
 
 }
 footer{
     grid-column-start:1;
-    grid-column-end:3;
+    grid-column-end:3;   
     height:auto;
     background-color:#008000;
 }
