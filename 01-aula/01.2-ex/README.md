@@ -41,6 +41,6 @@
 
 ### Exemplo 1.4
 
-#### :pencil: Grid Item: grid-row-start / grid-row-end
+#### :pencil: Grid Item: grid-row / grid-column
 
 <img alt="img ex" src="./../img/img-ex-4.2.1.png">
