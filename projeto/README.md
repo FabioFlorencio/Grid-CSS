@@ -1,8 +1,6 @@
-# :man_teacher: Aula 1 :books:
+# :building_construction: Projeto Grid :construction:
 
-## :clipboard: Tabela de conteúdo
-
-### :package: Grid Container
+## :package: Grid Container
 
 <p> 
     :heavy_check_mark: Display: grid;<br>      
@@ -11,7 +9,7 @@
     :heavy_check_mark: Grid-template-areas;<br>    
 </p>
 
-### :pencil:  Grid Item
+## :pencil:  Grid Item
 <p>                
     :heavy_check_mark: Grid-column-start;<br>
     :heavy_check_mark: Grid-column-end;<br>
