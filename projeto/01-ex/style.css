@@ -179,7 +179,7 @@ span .txt-footer {
 
 @media screen and (max-width: 875px) {
     .nav-left{        
-        display: none;
+        display:none;
     }
     .container {
         grid-template-areas: 
