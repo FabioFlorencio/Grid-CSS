@@ -1,6 +1,4 @@
-#
-# :open_file_folder: 01-aula/01.1-ex 
-# :books: Exemplo 1.1
+# :books: Exemplo 1.2
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 
@@ -24,7 +22,7 @@
 
 ## :art: Imagem 
 
-### Exemplo 1.1
+### Exemplo 1.2
 #### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-ex-1.2.png">
