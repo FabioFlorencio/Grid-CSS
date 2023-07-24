@@ -43,4 +43,4 @@
 
 #### :pencil: Grid Item: grid-row-start / grid-row-end
 
-<img alt="img ex" src="./../img/img-ex-2.2.png">
+<img alt="img ex" src="./../img/img-ex-4.2.1.png">
