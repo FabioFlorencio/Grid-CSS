@@ -41,6 +41,6 @@
 
 ### Exemplo 1.4
 
-#### :pencil: Grid Item: grid-row / grid-column
+#### :pencil: Grid Item: grid-row / grid-column (Usando a propriedade span)
 
 <img alt="img ex" src="./../img/img-ex-4.2.1.png">
