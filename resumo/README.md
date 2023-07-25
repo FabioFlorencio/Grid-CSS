@@ -1,4 +1,4 @@
-# :books: Estudos do Grid CSS :gear:
+# :toolbox: Resumo do Grid CSS :gear:
 
 <p>
     O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base os canais <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e <a href="https://www.youtube.com/playlist?list=PLXpJXj3bxppwq0wURjzqd8U1jLyHDz45d">Professor Miltin</a> e outras fontes no youtube.
@@ -22,7 +22,9 @@
     :heavy_check_mark: Display grid;<br>
     :heavy_check_mark: Grid-template-columns;<br>
     :heavy_check_mark: Grid-template-rows;<br>    
-    :heavy_check_mark: Grid-template-areas;<br>           
+    :heavy_check_mark: Grid-template-areas;<br>    
+    :heavy_check_mark: Grid-row;<br>
+    :heavy_check_mark: Grid-column;<br>    
     :heavy_check_mark: Grid-column-gap;<br>
     :heavy_check_mark: Grid-row-gap;<br>
     :heavy_check_mark: Grid-gap;<br>
@@ -41,21 +43,24 @@
     :heavy_check_mark: Align-self;<br> 
 </p>    
 
----
+### Principais propriedades grid
 
-## :unlock: Quer destravar os comandos básicos:question::old_key:
-<br>
+### :package: Propriedades Grid Container
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/78650091/220229632-d7f811a0-0762-4f6d-a3ea-81bdb561f1d3.gif)
+<p>
+    :heavy_check_mark: Display grid;<br>
+    :heavy_check_mark: Grid-template-columns;<br>       
+    :heavy_check_mark: Grid-template-areas;<br>    
+    :heavy_check_mark: Grid-row;<br>
+    :heavy_check_mark: Grid-column;<br>        
+</p>
 
-## :mag_right:  Pré-requisitos
+### :pencil: Propriedades Grid Item
 
-<p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: :octocat: <a href="https://git-scm.com/downloads">Git</a> e um editor de código <a href="https://code.visualstudio.com/download">VS Code.</a></p>
-
-```bash
-    # Clone este repositório
-    $ git clone https://github.com/FabioFlorencio/Linguagem_batch.git
-	
-    #Acesse a pasta do projeto no terminal/cmd    
-	
-```
+<p>     
+    :heavy_check_mark: Grid-column;<br>    
+    :heavy_check_mark: Grid-row;<br>
+    :heavy_check_mark: Grid-area;<br> 
+    :heavy_check_mark: Justify-self;<br> 
+    :heavy_check_mark: Align-self;<br> 
+</p>    
