@@ -25,7 +25,7 @@
 
 <img alt="container" src="./../img/img-ex-5.png">
 
-#### :package: Propriedade Grid Container Area: Grid Template Areas
+#### :package: Propriedade Grid Container: Grid Template Areas
 
 <img alt="container" src="./../img/img-ex-5.1.png">
 
