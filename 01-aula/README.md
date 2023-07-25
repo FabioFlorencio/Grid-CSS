@@ -11,7 +11,7 @@
     :heavy_check_mark: Grid-template-areas;<br>    
 </p>
 
-### :pencil:  Grid Item
+### :pencil:  Grid Items
 <p>                
     :heavy_check_mark: Grid-column-start;<br>
     :heavy_check_mark: Grid-column-end;<br>

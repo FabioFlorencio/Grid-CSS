@@ -15,7 +15,7 @@
     :heavy_check_mark: Align-items;<br>    
 </p>
 
-### :pencil:  Grid Item
+### :pencil:  Grid Items
 <p> 
     :heavy_check_mark: Justify-self;<br>
     :heavy_check_mark: Align-self;<br>                   

@@ -57,7 +57,7 @@
     :heavy_check_mark: Grid-column;<br>        
 </p>
 
-### :pencil: Propriedades Grid Item
+### :pencil: Propriedades Grid Items
 
 <p>     
     :heavy_check_mark: Grid-column;<br>    
