@@ -89,5 +89,5 @@
 
 #### :package: Propriedade Grid Container / Grid Item :pencil:
 
-<img alt="container" src="./img/img-ex-7.1.png">
+<img alt="container" src="../01-aula/img/img-ex-7.png">
 
