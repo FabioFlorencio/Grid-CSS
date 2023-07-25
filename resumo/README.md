@@ -83,11 +83,14 @@
 
 <img alt="container grid com 2 colunas" src="../01-aula/img/img-01-aula-1.1.1-ex.png">
 
-#### :pencil: Propriedade Grid Item: Grid row / Grid column (Demonstrativo)
+#### :package: Propriedade Grid Container / Grid Item :pencil:
 
 <img alt="container" src="../01-aula/img/img-ex-4.2.png">
 
-#### :package: Propriedade Grid Container / Grid Item :pencil:
+
+#### :pencil: Propriedade Grid Item: Grid row / Grid column (Demonstrativo)
 
 <img alt="container" src="../01-aula/img/img-ex-7.1.png">
+
+
 
