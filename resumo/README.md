@@ -45,7 +45,7 @@
 
 ---
 
-### :dart: Principais propriedades grid
+## :dart: Principais propriedades grid
 
 ### :package: Propriedades Grid Container
 
