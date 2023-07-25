@@ -50,9 +50,9 @@
 ### :package: Propriedades Grid Container
 
 <p>
-    :heavy_check_mark: Display grid;<br>
-    :heavy_check_mark: Grid-template-columns;<br>       
-    :heavy_check_mark: Grid-template-areas;<br>    
+    :dart: Display grid;<br>
+    :dart: Grid-template-columns;<br>       
+    :dart: Grid-template-areas;<br>    
     :heavy_check_mark: Grid-row;<br>
     :heavy_check_mark: Grid-column;<br>
     :heavy_check_mark: Grid-gap;<br>        
