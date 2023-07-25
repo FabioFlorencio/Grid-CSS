@@ -54,7 +54,8 @@
     :heavy_check_mark: Grid-template-columns;<br>       
     :heavy_check_mark: Grid-template-areas;<br>    
     :heavy_check_mark: Grid-row;<br>
-    :heavy_check_mark: Grid-column;<br>        
+    :heavy_check_mark: Grid-column;<br>
+    :heavy_check_mark: Grid-gap;<br>        
 </p>
 
 ### :pencil: Propriedades Grid Items
@@ -65,4 +66,28 @@
     :heavy_check_mark: Grid-area;<br> 
     :heavy_check_mark: Justify-self;<br> 
     :heavy_check_mark: Align-self;<br> 
-</p>    
+</p>  
+
+---
+
+## :art: Imagem 
+
+### Exemplo 1.1
+#### :package: Container ilustrativo
+
+<img alt="container" src="./../img/img-01-aula-1.1-ex.png">
+
+### Exemplo 1.2
+
+#### :package: Container com :classical_building: 2 colunas
+
+<img alt="container grid com 2 colunas" src="./../img/img-01-aula-1.1.1-ex.png">
+
+#### :pencil: Propriedade Grid Item: Grid row / Grid column (Demonstrativo)
+
+<img alt="container" src="./../img/img-ex-4.2.png">
+
+#### :package: Propriedade Grid Container / Grid Item :pencil:
+
+<img alt="container" src="./../img/img-ex-7.1.png">
+
