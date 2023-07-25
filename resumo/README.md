@@ -61,11 +61,11 @@
 ### :pencil: Propriedades Grid Items
 
 <p>     
-    :heavy_check_mark: Grid-column;<br>    
-    :heavy_check_mark: Grid-row;<br>
-    :heavy_check_mark: Grid-area;<br> 
-    :heavy_check_mark: Justify-self;<br> 
-    :heavy_check_mark: Align-self;<br> 
+    :dart: Grid-column;<br>    
+    :dart: Grid-row;<br>
+    :dart: Grid-area;<br> 
+    :dart: Justify-self;<br> 
+    :dart: Align-self;<br> 
 </p>  
 
 ---
