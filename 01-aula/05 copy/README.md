@@ -28,7 +28,7 @@
 
 <img alt="container" src="./../img/img-ex-5.1.png">
 
-#### :pencil: Propriedade Grid Item: Grid column / Grid row (Demonstrativo)
+#### :pencil: Propriedade Grid Item: Grid row / Grid column (Demonstrativo)
 
 <img alt="container" src="./../img/img-ex-4.2.png">
 
