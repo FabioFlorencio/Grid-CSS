@@ -41,9 +41,11 @@
     :heavy_check_mark: Grid-area;<br> 
     :heavy_check_mark: Justify-self;<br> 
     :heavy_check_mark: Align-self;<br> 
-</p>    
+</p>
 
-### Principais propriedades grid
+---
+
+### :dart: Principais propriedades grid
 
 ### :package: Propriedades Grid Container
 
