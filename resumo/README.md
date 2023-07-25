@@ -45,7 +45,7 @@
 
 ---
 
-## :toolbox: Principais Propriedades Grid CSS :gear: <br><br>
+# :toolbox: Principais Propriedades Grid CSS :gear: <br><br>
 
 ### :package: Propriedades Grid Container
 
