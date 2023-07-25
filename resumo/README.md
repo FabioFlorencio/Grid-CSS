@@ -1,4 +1,4 @@
-# :toolbox: Resumo do Grid CSS :gear:
+# :dart: Resumo do Grid CSS :dart:
 
 <p>
     O intuito desse estudo foi aprofundar o conhecimento sobre Grid CSS. Foi utilizado como base os canais <a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUjBWkYq0VZBENH2K1siCmN6">CFB Cursos</a> e <a href="https://www.youtube.com/playlist?list=PLXpJXj3bxppwq0wURjzqd8U1jLyHDz45d">Professor Miltin</a> e outras fontes no youtube.
@@ -45,7 +45,7 @@
 
 ---
 
-## :dart: Principais Propriedades Grid CSS <br><br>
+## :toolbox: Principais Propriedades Grid CSS :gear: <br><br>
 
 ### :package: Propriedades Grid Container
 
