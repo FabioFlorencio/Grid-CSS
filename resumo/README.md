@@ -45,7 +45,7 @@
 
 ---
 
-## :dart: Principais Propriedades Grid css <br><br>
+## :dart: Principais Propriedades Grid CSS <br><br>
 
 ### :package: Propriedades Grid Container
 
