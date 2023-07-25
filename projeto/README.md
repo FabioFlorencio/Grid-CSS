@@ -1,6 +1,6 @@
 # :building_construction: Projeto Grid :construction:
 
-<p>Nesse exemplo foi usado as seguintes propriedades:</p>
+<p>Nesse projeto foi usado as seguintes propriedades:</p>
 
 ## :package: Grid Container
 
