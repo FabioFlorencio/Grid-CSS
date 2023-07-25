@@ -1,5 +1,3 @@
-## :open_file_folder: 01-aula/01-ex 
-
 ## :books: Exemplo 1
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
