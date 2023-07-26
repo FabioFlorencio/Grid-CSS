@@ -16,7 +16,7 @@
 
 ---
 
-## :toolbox: Principais Propriedades Grid CSS :gear: <br><br>
+## :toolbox: Principais Propriedades Grid CSS :hammer_and_wrench: <br><br>
 
 ### :package: Propriedades Grid Container
 
