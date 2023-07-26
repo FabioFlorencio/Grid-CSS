@@ -14,35 +14,6 @@
     :small_blue_diamond: O container controla a disposição dos itens, mas os itens também podem alterar o seu posicionamento;
 </p>
 
-## :clipboard: Tabela de conteúdo
-<br>
-
-### :package: Propriedades Grid Container
-<p>
-    :heavy_check_mark: Display grid;<br>
-    :heavy_check_mark: Grid-template-columns;<br>
-    :heavy_check_mark: Grid-template-rows;<br>    
-    :heavy_check_mark: Grid-template-areas;<br>    
-    :heavy_check_mark: Grid-row;<br>
-    :heavy_check_mark: Grid-column;<br>    
-    :heavy_check_mark: Grid-column-gap;<br>
-    :heavy_check_mark: Grid-row-gap;<br>
-    :heavy_check_mark: Grid-gap;<br>
-</p>
-
-### :pencil: Propriedades Grid Item
-<p> 
-    :heavy_check_mark: Grid-column-start;<br>   
-    :heavy_check_mark: Grid-column-end;<br>
-    :heavy_check_mark: Grid-column;<br>
-    :heavy_check_mark: Grid-row-start;<br>   
-    :heavy_check_mark: Grid-row-end;<br>
-    :heavy_check_mark: Grid-row;<br>
-    :heavy_check_mark: Grid-area;<br> 
-    :heavy_check_mark: Justify-self;<br> 
-    :heavy_check_mark: Align-self;<br> 
-</p>
-
 ---
 
 ## :toolbox: Principais Propriedades Grid CSS :gear: <br><br>
