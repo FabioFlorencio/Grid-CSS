@@ -61,8 +61,7 @@
 <img alt="container" src="../01-aula/img/img-ex-4.2.png">
 
 ## audio
-
-https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/04942400-828e-4467-aba2-835329391073
+![ezgif com-video-to-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/04942400-828e-4467-aba2-835329391073)
 
 
 

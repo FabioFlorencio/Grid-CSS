@@ -5,9 +5,7 @@
 ## :package: Grid Container
 <p>    
     :heavy_check_mark: Grid-template-columns;<br>
-    :heavy_check_mark: Grid-template-rows;<br>          
-    :heavy_check_mark: Grid-column;<br>    
-    :heavy_check_mark: Grid-row;<br>    
+    :heavy_check_mark: Grid-template-rows;<br>                 
 </p>
 
 ## :pencil: Grid Items
