@@ -54,7 +54,7 @@
 
 ```bash
     # Clone este repositório
-    $ git clone https://github.com/FabioFlorencio/Linguagem_batch.git
+    $ git clone https://github.com/FabioFlorencio/Grid-CSS.git
 	
     #Acesse a pasta do projeto no terminal/cmd    
 	
