@@ -46,7 +46,7 @@
 ## :unlock: Quer destravar os comandos básicos:question::old_key:
 <br>
 
-![gif-grid-principal](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/639a6756-c94c-4989-9450-7e784505db2b)
+![gif-grid-readme](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/dd6c236c-5824-45b1-a503-722685e3b7a8)
 
 ## :mag_right:  Pré-requisitos
 
