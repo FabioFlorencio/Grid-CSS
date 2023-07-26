@@ -21,22 +21,22 @@
 ### :package: Propriedades Grid Container
 
 <p>
-    :dart: Display grid;<br>
-    :dart: Grid-template-columns;<br>       
-    :dart: Grid-template-areas;<br>    
-    :dart: Grid-row;<br>
-    :dart: Grid-column;<br>
-    :dart: Grid-gap;<br>        
+    :heavy_check_mark: Grid-template-columns;<br>       
+    :heavy_check_mark: Display grid;<br>
+    :heavy_check_mark: Grid-template-areas;<br>    
+    :heavy_check_mark: Grid-row;<br>
+    :heavy_check_mark: Grid-column;<br>
+    :heavy_check_mark: Grid-gap;<br>        
 </p>
 
 ### :pencil: Propriedades Grid Items
 
 <p>     
-    :dart: Grid-column;<br>    
-    :dart: Grid-row;<br>
-    :dart: Grid-area;<br> 
-    :dart: Justify-self;<br> 
-    :dart: Align-self;<br> 
+    :heavy_check_mark: Grid-column;<br>    
+    :heavy_check_mark: Grid-row;<br>
+    :heavy_check_mark: Grid-area;<br> 
+    :heavy_check_mark: Justify-self;<br> 
+    :heavy_check_mark: Align-self;<br> 
 </p>  
 
 ---
