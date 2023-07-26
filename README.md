@@ -46,7 +46,7 @@
 ## :unlock: Quer destravar os comandos básicos:question::old_key:
 <br>
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/78650091/220229632-d7f811a0-0762-4f6d-a3ea-81bdb561f1d3.gif)
+![gif-grid-principal](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/639a6756-c94c-4989-9450-7e784505db2b)
 
 ## :mag_right:  Pré-requisitos
 
