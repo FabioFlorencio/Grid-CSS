@@ -1,6 +1,14 @@
 # :building_construction: Projeto Grid :construction:
 
-<p>Nesse projeto foi usado as seguintes propriedades:</p>
+<p>O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-CSS`</p>
+
+<p>Recuros CSS presentes no projeto:</p>
+
+- Fundamentos do CSS
+- Grid Layout
+- Flexbox
+- Responsividade
+- Pseudo-elementos
 
 ## :package: Grid Container
 
