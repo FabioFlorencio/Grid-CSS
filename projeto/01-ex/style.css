@@ -23,9 +23,8 @@ html {
     ;     
     justify-content:center;              
     align-content: center;
-    color:#FAFAFA; 
-    /* margin-top: 1rem;                  */
-    margin: 0 auto;
+    color:#FAFAFA;                 
+    margin: 1rem auto 0 auto;    
 }
 .nav-left {   
     display: grid;
