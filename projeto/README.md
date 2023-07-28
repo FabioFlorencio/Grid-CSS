@@ -4,11 +4,13 @@ O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-C
 
 <p>Recuros CSS presentes no projeto:</p>
 
-:heavy_check_mark: Fundamentos do CSS
-:heavy_check_mark: Grid Layout
-:heavy_check_mark: Flexbox
-:heavy_check_mark: Responsividade
-:heavy_check_mark: Pseudo-elementos
+<p>
+    :heavy_check_mark: Fundamentos do CSS <br>
+    :heavy_check_mark: Grid Layout <br>
+    :heavy_check_mark: Flexbox <br>
+    :heavy_check_mark: Responsividade <br>
+    :heavy_check_mark: Pseudo-elementos <br>
+</p>
 
 ---
 
