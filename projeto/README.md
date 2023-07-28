@@ -1,6 +1,6 @@
 # :building_construction: Projeto Grid :construction:
 
-<p>O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-CSS`</p>
+O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-CSS`
 
 <p>Recuros CSS presentes no projeto:</p>
 
