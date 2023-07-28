@@ -24,7 +24,11 @@
 
 ### :iphone: Media Queries :desktop_computer: 
 
-![ezgif com-video-to-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/2c8001fb-6611-4629-a62e-8c5fa6b16e92)
+<p>                
+    :heavy_check_mark: Media queries and (max-width: 820px);<br>
+    :heavy_check_mark: Media queries and (max-width: 480px);<br>    
+</p>
+
 
 
 
