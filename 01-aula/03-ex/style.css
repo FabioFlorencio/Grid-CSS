@@ -10,29 +10,37 @@ html {
     font-size: 62.5%;
 }
 .container{
-    display: grid;
+    display: grid;    
     grid-template-columns:3fr 1fr;
-    grid-template-rows:20vh 40vh 10vh 30vh;   
-    color:#FFF;
+    grid-template-rows:20vh 30vh 30vh 20vh;
+    color:#FFF;    
     font-size: 2rem;
 }
 header{
-    grid-column-start:1;
-    grid-column-end:3;
-    grid-row-start:1;
-    grid-row-end:4;
-    background-color: rgb(255, 99, 71);          
+    grid-column:1 / span 2; /* Começa na coluna 1 e espande até a coluna 2 */    
+    background-color: #ff6347;
+    height:auto;       
 }
 main{
-    height:15rem;    
-    background-color:#ffff00;    
+    grid-column:1 / span 1;    
+    grid-row-start:2;
+    grid-row-end: span 1;       
+    height:auto;  
+    color:#000;  
+    background-color:#ffff00;
+    
 }
 aside{
-    height:15rem;
+    grid-column:2 / span 1; 
+    height:auto;
     background-color:black;    
+    grid-row:2 / span 2;
+
 }
-footer{    
-    height:15rem;
+footer{
+    grid-column-start:1;
+    grid-column-end:3;   
+    height:auto;
     background-color:#008000;
 }
 

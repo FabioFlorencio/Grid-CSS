@@ -1,19 +1,21 @@
-# :books: Exemplo 4
+# :books: Exemplo 2
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 
 ## :package: Grid Container
+
 <p>    
     :heavy_check_mark: Grid-template-columns;<br>
-    :heavy_check_mark: Grid-template-rows;<br>                 
+    :heavy_check_mark: Grid-template-rows;<br>              
 </p>
 
-## :pencil: Grid Items
+## :pencil:  Grid Items
 
-<p>     
-    :heavy_check_mark: Grid-area;<br>                 
-    :heavy_check_mark: Grid-column;<br>    
-    :heavy_check_mark: Grid-row;<br>    
+<p>                
+    :heavy_check_mark: Grid-column-start;<br>
+    :heavy_check_mark: Grid-column-end;<br>
+    :heavy_check_mark: Grid-row-start;<br>
+    :heavy_check_mark: Grid-row-end;<br>
 </p>
 
 ---
@@ -22,11 +24,9 @@
 
 #### :package: Container ilustrativo
 
-<img alt="container" src="./../img/img-ex-4.1.png">
-
-#### :pencil: Propriedade Grid Item: Grid Area
-
-<img alt="container" src="./../img/img-ex-4.png">
+<img alt="container" src="./../img/img-ex-2.0.png">
+<p>Nesse exemplo foi definido a quantidade de linhas da tag aside, usando a propriedade ( grid-row-start / grid-row-end ) e foi utilizado como parâmetro grid-template-rows: 20vh 40vh 30vh 10vh, para determinar o tamanho da linha.</p>
+<img alt="container" src="./../img/img-ex-02.1.png">
 
 
 ---
@@ -45,26 +45,33 @@ html {
     /* A cada 1rem será considerado 10px */
     font-size: 62.5%;
 }
-.container {
+.container{
     display: grid;
-    grid-template-columns:3fr 1fr;
-    grid-template-rows:20vh 40vh 10vh 30vh;   
+    grid-template-columns:1fr 2fr;
+    grid-template-rows:20vh 40vh 30vh 10vh;   
     color:#FFF;
     font-size: 2rem;
 }
-header {
-    grid-area:1/1/3/2;
-    background-color: rgb(255, 99, 71);          
+header{
+    grid-column-start:1; /* Começa na coluna 1 */
+    grid-column-end:3;   /* Termina na coluna 2 */
+    background-color: #ff6347;
+    height:auto;       
 }
-main {
-    height:15rem;    
+main{      
+    grid-row-start:2;    
+    grid-row-end:4;
+    height:15rem;  /* Define o tamanho do elemento diferente do aside que segue o tamanho da linha */  
     background-color:#ffff00;    
 }
-aside {
-    height:15rem;
-    background-color:black;    
+aside{           
+    grid-row-start:2; /* Começa na linha 2 */    
+    grid-row-end:4;   /* Termina na linha 3 */
+    background-color:black;      
 }
-footer {     
+footer{
+    grid-column-start:1;
+    grid-column-end:3;        
     height:15rem;
     background-color:#008000;
 }

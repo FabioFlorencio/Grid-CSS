@@ -9,31 +9,30 @@ html {
     /* A cada 1rem será considerado 10px */
     font-size: 62.5%;
 }
-.container {
-    display: grid;    
-    grid-template-areas: "header header"  /*Linha 1*/
-                         "main aside"     /*Linha 2*/   
-                         "footer footer"; /*Linha 3*/
+.container{
+    display: grid;
     grid-template-columns:3fr 1fr;
-    grid-template-rows:20vh 40vh 10vh 30vh;                           
+    grid-template-rows:20vh 40vh 10vh 30vh;   
     color:#FFF;
     font-size: 2rem;
 }
-header {
-    /*grid-area: 1-row-start / 1-column-start / 2-row-end / 3-column-end */
-    grid-area:1/1/2/3;
+header{
+    grid-column-start:1;
+    grid-column-end:3;
+    grid-row-start:1;
+    grid-row-end:4;
     background-color: rgb(255, 99, 71);          
 }
-main {        
-    grid-area:2/1/4/2;
+main{
+    height:15rem;    
     background-color:#ffff00;    
 }
-aside {     
-    grid-row:2/3;          
+aside{
+    height:15rem;
     background-color:black;    
 }
-footer {          
-    grid-area:4/1/5/3;   
+footer{    
+    height:15rem;
     background-color:#008000;
 }
 

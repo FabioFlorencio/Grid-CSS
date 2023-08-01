@@ -10,33 +10,40 @@ html {
     font-size: 62.5%;
 }
 .container{
-    display: grid;
-    grid-template-columns:1fr 2fr;
-    grid-template-rows:20vh 40vh 30vh 10vh;   
-    color:#FFF;
+    display: grid;    
+    grid-template-columns:3fr 1fr;
+    grid-template-rows:20vh 30vh 30vh 20vh;          
+    color:#FFF;    
     font-size: 2rem;
 }
 header{
-    grid-column-start:1; 
+    grid-column-start:1; /* Começa na coluna 1 */
     grid-column-end:3;   /* Termina na coluna 2 */
     background-color: #ff6347;
-    height:auto;       
+    height:auto;   
+    
 }
-main{      
-    grid-row-start:2;    
+main{
+    grid-column-start:1;
+    grid-column-end:2;
+    grid-row-start:2;
     grid-row-end:4;
-    height:15rem;  /* Define o tamanho do elemento diferente do aside segue o tamanho da linha */  
-    background-color:#ffff00;    
+    height:auto;  
+    color:#000;  
+    background-color:#ffff00;
+    
 }
-aside{           
-    grid-row-start:2; /* Começa na linha 2 */    
-    grid-row-end:4;   /* Termina na linha 3 */
-    background-color:black;      
+aside{
+    height:auto;
+    background-color:black;    
+    grid-row-start:2;
+    grid-row-end:4;
+
 }
 footer{
     grid-column-start:1;
-    grid-column-end:3;        
-    height:15rem;
+    grid-column-end:3;
+    height:auto;
     background-color:#008000;
 }
 

@@ -10,31 +10,26 @@ html {
     font-size: 62.5%;
 }
 .container {
-    display: grid;  
-    grid-template-columns:1fr 1fr 1fr 1fr;
-    grid-template-rows:20vh 40vh 10vh 20vh;   
-    grid-template-areas: 
-        "header header header header"
-        "main main . aside"       
-        "footer footer footer footer"
-    ;                              
+    display: grid;
+    grid-template-columns:3fr 1fr;
+    grid-template-rows:20vh 40vh 10vh 30vh;          
     color:#FFF;
     font-size: 2rem;
 }
 header {
-    grid-area: header;
+    grid-area:1/1/3/2;
     background-color: rgb(255, 99, 71);          
 }
-main {        
-    grid-area: main;
+main {
+    height:15rem;    
     background-color:#ffff00;    
 }
-aside {     
-    grid-area: aside;     
+aside {
+    height:15rem;
     background-color:black;    
 }
-footer {    
-    grid-area: footer; 
+footer {     
+    height:15rem;
     background-color:#008000;
 }
 
