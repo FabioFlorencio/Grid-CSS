@@ -12,10 +12,10 @@ html {
     /* A cada 1rem será considerado 10px */
     font-size: 62.5%;
 }
-.container{
+.container{                 
+    display: grid;
     width:100%; 
     min-height: 100vh;
-    display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: 
         "left right"
@@ -26,8 +26,7 @@ html {
     color:#FAFAFA;                 
     margin: 1rem auto 0 auto;    
 }
-.nav-left {   
-    display: grid;
+.nav-left {    
     grid-area: left;
     justify-content:flex-end;        
     min-width: 42rem;

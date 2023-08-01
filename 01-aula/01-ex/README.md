@@ -13,3 +13,5 @@
 ### :art: Imagem exemplo 1
 
 <img alt="container" src="./../img/img-01-aula-1-ex.png">
+<img alt="container" src="../../img/01-AULA-ex-1-container-1.png">
+d
