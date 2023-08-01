@@ -1,4 +1,4 @@
-# :books: Exemplo 2
+# :books: Exemplo 4
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 
@@ -25,7 +25,9 @@
 #### :package: Container ilustrativo
 
 <img alt="container" src="./../img/img-ex-2.0.png">
+<img alt="container" src="../../img/01-AULA-ex-4-container-5.png">
 <p>Nesse exemplo foi definido a quantidade de linhas da tag aside, usando a propriedade ( grid-row-start / grid-row-end ) e foi utilizado como parâmetro grid-template-rows: 20vh 40vh 30vh 10vh, para determinar o tamanho da linha.</p>
+<img alt="container" src="../../img/explicacao-devTools-linhas-colunas-1.png">
 <img alt="container" src="./../img/img-ex-02.1.png">
 
 
