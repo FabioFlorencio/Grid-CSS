@@ -1,4 +1,4 @@
-# :books: Exemplo 7
+# :books: Exemplo 11
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 
@@ -23,12 +23,11 @@
 
 #### :package: Container ilustrativo
 
-<img alt="container" src="./../img/img-ex-7.png">
+<img alt="container" src="../../img/01-AULA-ex-11-container-8.png">
 
 #### :package: Propriedade Grid Container / Grid Item :pencil:
 
-<img alt="container" src="./../img/img-ex-7.1.png">
-
+<img alt="container" src="../../img/explicacao-gta-ga.png">
 
 ---
 

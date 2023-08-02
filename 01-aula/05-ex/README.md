@@ -1,4 +1,4 @@
-# :books: Exemplo 3
+# :books: Exemplo 5
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 
@@ -24,9 +24,9 @@
 
 #### :package: Container ilustrativo
 
-<img alt="container" src="./../img/img-3-ex.png">
+<img alt="container" src="../../img/01-AULA-ex-5-6-container-6.png">
 <p>Nesse exemplo foi definido a quantidade de linhas da tag header, usando a propriedade ( grid-row-start / grid-row-end ) e foi utilizado como parâmetro grid-template-rows: 20vh 40vh 10vh, para determinar o tamanho da linha.</p>
-<img alt="container" src="./../img/img-ex-03.1.png">
+<img alt="container" src="../../img/explicacao-devTools-linhas-colunas-2.png">
 
 
 ---

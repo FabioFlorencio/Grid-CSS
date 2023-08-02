@@ -1,4 +1,4 @@
-# :books: Exemplo 3.1
+# :books: Exemplo 6
 
 <p>Nesse exemplo foi usado as seguintes propriedades:</p>
 
@@ -23,14 +23,14 @@
 
 #### :package: Container ilustrativo
 
-<img alt="container" src="./../img/img-3-ex.png">
+<img alt="container" src="../../img/01-AULA-ex-5-6-container-6.png">
 <p>Nesse exemplo foi utilizado as propriedades grid-column e grid-row que são abreviações de (grid-column-start / grid-column-end) e (grid-row-start / grid-row-end).</p>
-<img alt="container" src="./../img/img-ex-03.2.png">
+<img alt="container" src="../../img/explicacao-devTools-linhas-colunas-3.png">
 
 
 #### :pencil: Propriedade Grid Item: Grid row / Grid Column
 
-<img alt="container" src="./../img/img-ex-4.2.png">
+<img alt="container" src="../../img/explicacao-gr-gc.png">
 
 ---
 
