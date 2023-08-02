@@ -21,26 +21,27 @@ html {
         "left right"
         "footer footer"
     ;     
-    justify-content:center;              
-    align-content: center;
+    justify-content:center;            
+    align-content: center;   
     color:#FAFAFA;                 
-    margin: 1rem auto 0 auto;    
+    margin: 1rem auto 0 auto;      
 }
-.nav-left {    
+.nav-left { 
+    display: grid;      
     grid-area: left;
-    justify-content:flex-end;        
+    justify-content: flex-end;    
     min-width: 42rem;
-    min-height: 61.5rem;             
+    min-height: 61.5rem;                 
 }
-.nav-left .mobile{
+.nav-left .mobile{       
     background: url(https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones.png?__makehaste_cache_breaker=HOgRclNOosk) no-repeat;       
     min-width: 42rem;   
-    min-height: 61.5rem;    
+    min-height: 61.5rem;       
 }
-.nav-left .mobile img {       
+.nav-left .mobile img {          
     position: relative;    
     top: 2.4rem;
-    left: 15.3rem;
+    left: 15.4rem;
     width:25.6rem;
     height:54.5rem;
 }
