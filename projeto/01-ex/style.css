@@ -46,7 +46,7 @@ html {
     height:54.5rem;
 }
 
-.nav-right {
+.nav-right {              
     grid-area: right;    
     min-width: 42rem;
     min-height: 61.5rem;    
