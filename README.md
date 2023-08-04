@@ -48,7 +48,7 @@
 
 ![gif-grid-readme](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/dd6c236c-5824-45b1-a503-722685e3b7a8)
 
-## :unlock: Figma :question::old_key:
+## 🎨 Mockup Instagram :question::old_key:
 
 [🎨Figma](https://www.figma.com/file/BQxUWevqbZ3kvjtQ0cRPn9/CSS-Grid?type=design&node-id=143%3A2&mode=design&t=4PFnPRUUXmOh5k4S-1)
 
