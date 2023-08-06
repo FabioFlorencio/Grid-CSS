@@ -18,8 +18,8 @@ O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-C
 
 [🎨Figma](https://www.figma.com/file/BQxUWevqbZ3kvjtQ0cRPn9/CSS-Grid?type=design&node-id=143%3A2&mode=design&t=4PFnPRUUXmOh5k4S-1)
 
-[🎨Figma](https://github.com/FabioFlorencio/Grid-CSS/blob/master/img/teste-img.png)
-<img src="/img/teste-img.png" width="25%"/>
+[](https://github.com/FabioFlorencio/Grid-CSS/blob/master/img/teste-img.png)
+<img src="/img/teste-img.png" width="50%"/>
 
 ## :iphone: Media Queries :desktop_computer: 
 
