@@ -20,8 +20,6 @@ O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-C
 
 [](https://github.com/FabioFlorencio/Grid-CSS/blob/master/img/%F0%9F%92%BB%20Desktop.png)
 <img src="/img/💻 Desktop.png" width="40%">
-[](https://github.com/FabioFlorencio/Grid-CSS/blob/master/img/%F0%9F%93%B1%20Mobile.png)
-<img src="/img/📱%20Mobile.png" height="20%">
 
 ## :iphone: Media Queries :desktop_computer: 
 
