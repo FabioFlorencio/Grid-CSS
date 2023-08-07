@@ -52,7 +52,7 @@ html {
     min-height: 61.5rem;    
     font-size: 1.2rem;
     color: #8e8e8e;     
-    padding-left:1.5rem;                 
+    padding-left:3rem;                 
 }
 .box-form {
     display: flex;
@@ -61,60 +61,76 @@ html {
     align-items: center;
     max-width: 35rem;
     border:0.1rem solid #dbdbdb;
-    margin-bottom: 2rem;  
+    margin-bottom: 1rem;  
     padding-bottom:2.5rem;    
     background: #fff;
 }
 .box-form input {    
     min-width: 23rem; 
-    min-height:4rem;
+    min-height:3.5rem;
     font-size:1.1rem;
     border:0.1rem solid #dbdbdb;
     border-radius:0.3rem;
     margin-bottom: .8rem;
-    padding:.4rem .8rem;  
+    padding:.2rem .8rem;  
     background: #fbfbfb;
 }
 .nav-right button {
     min-width: 23rem;
+    min-height:3rem;
     font-size: 1.2rem;
     font-weight: 700;
     color: #fff;
     border: none;
-    border-radius:.8rem;
-    padding: 1rem 1.5rem;    
+    border-radius:.8rem;      
     margin-top: .6rem;
     margin-bottom: 1.5rem;
     background: #56b8f1;
 }
 .nav-right p {
     color:#8e8e8e;
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     font-weight: 700;
     margin-bottom: 2.5rem;
 }
-.nav-right p::before {    
-    content: '___________________';
+.nav-right p::before {        
+    content: '______________';
     position: relative;
     top: -0.5rem;
     padding: 1rem;
 
 }
 .nav-right p::after {
-    content: '___________________';
+    content: '______________';
     position: relative;
     top: -0.5rem;
     padding: 1rem;
+}
+.icone-facebook {
+    display: flex;    
+    color: #385185;
 }
 .logo-instagram {
     width:23.5rem;
     padding: 2.5rem;
 
 }
+.span-facebook {
+    font-size: 1.4rem;
+    font-weight: 1000;
+    color: #385185;
+    padding-left: .8rem;
+    margin-bottom: 2.5rem;
+}
+.span-senha{    
+    color:#385185;
+}
 .box {        
     display: flex; 
-    justify-content: center;        
+    justify-content: center; 
+    align-items: center;       
     max-width: 35rem;
+    min-height:6rem;
     background: #fff; 
     border: .1rem solid #dbdbdb;           
 }
@@ -145,6 +161,10 @@ html {
     align-items: center;
     max-width: 35rem;    
     padding: 2.5rem; 
+}
+.span-txt-app {
+    color:#000;
+    margin-bottom:1rem  ;
 }
 .box-footer .store {
     display: flex;
