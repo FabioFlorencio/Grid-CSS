@@ -68,6 +68,7 @@ html {
 .box-form input {    
     min-width: 23rem; 
     min-height:4rem;
+    font-size:1.1rem;
     border:0.1rem solid #dbdbdb;
     border-radius:0.3rem;
     margin-bottom: .8rem;
@@ -119,14 +120,20 @@ html {
 }
 .box .links-1 { 
     display: flex;
-    justify-content:center;                      
+    justify-content:center;                        
     list-style: none;
     color:#8e8e8e;
     font-size: 2rem;
     margin: 1.5rem 0;
 }
+.box li {       
+    font-size: 1.2rem;
+    color: #000;
+}
 .box li a {       
-    color: #8e8e8e; 
+    color: #4BB4F8; 
+    font-size: 1.2rem;
+    font-weight: bolder;
     text-decoration: none;
     padding-left: 0.5rem;
 }
