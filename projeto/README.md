@@ -14,7 +14,7 @@ O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-C
 
 ---
 
-## 🎨 Mockup Instagram
+## 🎨 Mockup Instagram :selfie:
 
 [:calling:`Figma`](https://www.figma.com/file/BQxUWevqbZ3kvjtQ0cRPn9/CSS-Grid?type=design&node-id=143%3A2&mode=design&t=4PFnPRUUXmOh5k4S-1)
 
