@@ -16,9 +16,9 @@ O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-C
 
 ## 🎨 Mockup Instagram :selfie:
 
-:point_right: :point_right: :point_right: [`Link Figma`](https://www.figma.com/file/BQxUWevqbZ3kvjtQ0cRPn9/CSS-Grid?type=design&node-id=143%3A2&mode=design&t=4PFnPRUUXmOh5k4S-1) :point_left::point_left::point_left:
+:point_right::point_right::point_right:[`Link Figma`](https://www.figma.com/file/BQxUWevqbZ3kvjtQ0cRPn9/CSS-Grid?type=design&node-id=143%3A2&mode=design&t=4PFnPRUUXmOh5k4S-1) :point_left::point_left::point_left:
 
-[:calling:`Figma`](https://www.figma.com/file/BQxUWevqbZ3kvjtQ0cRPn9/CSS-Grid?type=design&node-id=143%3A2&mode=design&t=4PFnPRUUXmOh5k4S-1)
+[:calling:`Link Figma`](https://www.figma.com/file/BQxUWevqbZ3kvjtQ0cRPn9/CSS-Grid?type=design&node-id=143%3A2&mode=design&t=4PFnPRUUXmOh5k4S-1)
 
 [](https://github.com/FabioFlorencio/Grid-CSS/blob/master/img/%F0%9F%92%BB%20Desktop.png)
 <img src="/img/💻 Desktop.png" width="55%">
