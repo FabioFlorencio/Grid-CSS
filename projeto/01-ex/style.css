@@ -12,6 +12,7 @@ html {
     /* A cada 1rem será considerado 10px */
     font-size: 62.5%;
 }
+/*==== container ====*/
 .container{                 
     display: grid;
     width:100%; 
@@ -26,6 +27,7 @@ html {
     color:#FAFAFA;                 
     margin: 1rem auto 0 auto;      
 }
+/*==== nav-left ====*/
 .nav-left { 
     display: grid;      
     grid-area: left;
@@ -45,7 +47,7 @@ html {
     width:25.6rem;
     height:54.5rem;
 }
-
+/*==== nav-right ====*/
 .nav-right {              
     grid-area: right;    
     min-width: 42rem;
@@ -54,6 +56,12 @@ html {
     color: #8e8e8e;     
     padding-left:3rem;                 
 }
+/*==== logo-instagram ====*/
+.logo-instagram {
+    width:23.5rem;
+    padding: 2.5rem;
+}
+/*==== box-form ====*/
 .box-form {
     display: flex;
     flex-direction: column;
@@ -75,7 +83,7 @@ html {
     padding:.2rem .8rem;  
     background: #fbfbfb;
 }
-.nav-right button {
+.box-form button {
     min-width: 23rem;
     min-height:3rem;
     font-size: 1.2rem;
@@ -87,33 +95,29 @@ html {
     margin-bottom: 1.5rem;
     background: #56b8f1;
 }
-.nav-right p {
+.box-form p {
     color:#8e8e8e;
     font-size: 1.4rem;
     font-weight: 700;
     margin-bottom: 2.5rem;
 }
-.nav-right p::before {        
+.box-form p::before {        
     content: '______________';
     position: relative;
     top: -0.5rem;
     padding: 1rem;
 
 }
-.nav-right p::after {
+.box-form p::after {
     content: '______________';
     position: relative;
     top: -0.5rem;
     padding: 1rem;
 }
-.icone-facebook {
+/*==== login-facebook ====*/
+.login-facebook {
     display: flex;    
     color: #385185;
-}
-.logo-instagram {
-    width:23.5rem;
-    padding: 2.5rem;
-
 }
 .span-facebook {
     font-size: 1.4rem;
@@ -125,6 +129,7 @@ html {
 .span-senha{    
     color:#385185;
 }
+/*==== box ====*/
 .box {        
     display: flex; 
     justify-content: center; 
@@ -153,6 +158,7 @@ html {
     text-decoration: none;
     padding-left: 0.5rem;
 }
+/*==== box-footer ====*/
 .box-footer {
     display: flex;
     flex-direction: column;
@@ -174,8 +180,8 @@ html {
 .box-footer img {
     max-width: 14.5rem;    
     padding: 1rem 1rem;
-
 }
+/*==== footer ====*/
 .footer {        
     grid-area: footer;   
     justify-self:center; 
@@ -199,11 +205,8 @@ html {
     text-decoration: none;
     padding: 0.5rem;
 }
-span .txt-footer {
-    color: #f00;
-}
 
-/*========= Media queries ============*/
+/*========= media queries ============*/
 
 @media screen and (max-width: 875px) {
     .nav-left{        
