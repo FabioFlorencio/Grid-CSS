@@ -22,7 +22,7 @@ O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-C
 
 ![video-instagram-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/ae0b543f-4b2c-4e3b-8430-461cdf45e162)
 
----
+
 
 
 
