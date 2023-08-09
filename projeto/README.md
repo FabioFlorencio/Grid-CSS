@@ -18,9 +18,6 @@ O projeto possui como intuito aplicar os conceitos abordados no curso de `Grid-C
 
 ![video](https://github.com/FabioFlorencio/Grid-CSS/blob/master/img/video-gif-figma.gif)
 
-[](https://github.com/FabioFlorencio/Grid-CSS/blob/master/img/%F0%9F%92%BB%20Desktop.png)
-<img src="/img/💻 Desktop.png" width="55%">
-
 ## :iphone: Projeto Instagram :desktop_computer: 
 
 ![video-instagram-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/ae0b543f-4b2c-4e3b-8430-461cdf45e162)
