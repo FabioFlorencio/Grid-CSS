@@ -114,7 +114,7 @@ html {
 
 ---
 
-## :keyboard: Código simplificado Grid-template-areas | Grid-column |Grid-row |:open_file_folder: 01-aula/08-ex
+## :keyboard: Código simplificado Grid-template-areas | Grid-column | Grid-row |:open_file_folder: 01-aula/08-ex
 
 ```css
 * {
