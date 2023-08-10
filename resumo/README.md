@@ -60,7 +60,7 @@
 
 ---
 
-## :keyboard: Código simplificado
+## :keyboard: Código simplificado Grid-template-areas | :open_file_folder: 03-aula/01-ex
 
 ```css
 * {
