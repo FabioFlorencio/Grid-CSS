@@ -44,15 +44,15 @@
 
 #### :package: Container com :classical_building: 2 colunas
 
-<img alt="container grid com 2 colunas" src="../01-aula/img/img-01-aula-1.1.1-ex.png">
+<img alt="container grid com 2 colunas" src="../img/01-AULA-ex-2-ex3-container-3.png">
 
 #### :package: Propriedade Grid Container / Grid Item :pencil:
 
-<img alt="container" src="../01-aula/img/img-ex-7.1.png">
+<img alt="container" src="../img/explicacao-gta-ga.png">
 
 #### :pencil: Propriedade Grid Item: Grid row / Grid column (Demonstrativo)
 
-<img alt="container" src="../01-aula/img/img-ex-4.2.png">
+<img alt="container" src="../img/explicacao-gr-gc.png">
 
 ## :iphone: Media Queries :desktop_computer: 
 
