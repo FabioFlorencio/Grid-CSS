@@ -54,12 +54,6 @@
 
 <img alt="container" src="../img/explicacao-gr-gc.png">
 
-## :iphone: Media Queries :desktop_computer: 
-
-![ezgif com-video-to-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/2c8001fb-6611-4629-a62e-8c5fa6b16e92)
-
----
-
 ## :keyboard: Código simplificado Grid-template-areas | :open_file_folder: 03-aula/01-ex
 
 ```css
@@ -113,6 +107,12 @@ html {
 }
 
 ```
+
+## :iphone: Media Queries :desktop_computer: 
+
+![ezgif com-video-to-gif](https://github.com/FabioFlorencio/Grid-CSS/assets/78650091/2c8001fb-6611-4629-a62e-8c5fa6b16e92)
+
+---
 
 
 
