@@ -114,8 +114,6 @@ html {
 
 ---
 
-## :open_file_folder: 01-aula/08-ex 
-
 ## :keyboard: Código simplificado Grid-template-areas | :open_file_folder: 01-aula/08-ex
 
 ```css
@@ -162,7 +160,7 @@ footer {
 
 ```
 
-<img alt="container" src="../img/01-AULA-ex-8-9-10-container-8.png">
+<img alt="container" src="../img/video-gif-01-aula-08-ex.gif">
 
 
 
