@@ -38,7 +38,7 @@
 ### Exemplo 1.1
 #### :package: Container ilustrativo
 
-<img alt="container" src="../01-aula/img/img-01-aula-1.1-ex.png">
+<img alt="container" src="../img/01-AULA-ex-2-container-2.png">
 
 ### Exemplo 1.2
 
@@ -48,7 +48,7 @@
 
 #### :package: Propriedade Grid Container / Grid Item :pencil:
 
-<img alt="container" src="../img/explicacao-gta-ga.png">
+<img alt="container" src="../img/explicacao-gta-ga.png  ">
 
 #### :pencil: Propriedade Grid Item: Grid row / Grid column (Demonstrativo)
 
